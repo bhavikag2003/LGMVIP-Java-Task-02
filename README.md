@@ -1,4 +1,4 @@
-# LGMVIP-Java-Task-03
+# LGMVIP-Java-Task-02
 ----
 GUI-based Scientific Calculator using Java, principles of OOPs, Java Swing, and JFrame
 ----
